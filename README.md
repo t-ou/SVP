@@ -1,6 +1,6 @@
 # SVP
 a Eclipse Plugin of SBFL and its visualization
-I'm trying my best to develop it but it will still take a long time to finish.
+I'm trying my best to develop it but it will still take some time to finish it.
 ## Principle
 - Start as a Listener of JUnit5
 - Use Jacoco to collect coverage information
